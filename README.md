@@ -31,3 +31,5 @@ Have an issue? Need quick support rapidly? Just want to bother me? All are welco
     Element: hitboxboxer@infotoast.ems.host
 
 Thank you for stopping by and being a part of my learning journey. Remember, every line of code written is a step toward mastery, and I'm determined to make each line count
+
+![firebadnofire's github stats](https://github-readme-stats.vercel.app/api?username=firebadnofire&theme=tokyonight&hide=prs&show_icons=true)
