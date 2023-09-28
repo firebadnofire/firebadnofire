@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My username is firebadnofire, and I'm a beginner developer in Unity and very fond of Linux 🚀
+My username is firebadnofire (any/all pronouns), and I'm a beginner developer in Unity and very fond of Linux 🚀
 
 
 ### About Me
@@ -27,7 +27,7 @@ My primary goal is to document my progress transparently. By sharing my successe
 Have an issue? Need quick support rapidly? Just want to bother me? All are welcome! 
 
     GitHub: github.com/firebadnofire (submit an issue on the "firebadnofire" repo)
-    Twitter: @coconut_jpg
+    Twitter: @coconut_jpeg
     Element: hitboxboxer@infotoast.ems.host
 
 Thank you for stopping by and being a part of my learning journey. Remember, every line of code written is a step toward mastery, and I'm determined to make each line count
