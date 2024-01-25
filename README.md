@@ -28,7 +28,7 @@ Have an issue? Need quick support rapidly? Just want to bother me? All are welco
 
     GitHub: github.com/firebadnofire (submit an issue on the "firebadnofire" repo)
     Twitter: @coconut_jpeg
-    Element: hitboxboxer@infotoast.ems.host
+    Element: hitboxboxer@infotoast.org
 
 Thank you for stopping by and being a part of my learning journey. Remember, every line of code written is a step toward mastery, and I'm determined to make each line count
 
